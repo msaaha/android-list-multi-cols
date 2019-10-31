@@ -11,6 +11,7 @@ import android.widget.Toast;
 public class MainActivity extends AppCompatActivity {
 //George
     //push
+    //test
     EditText etFirstName,etLastName,etFavFood;
     Button btnAdd,btnView;
     DatabaseHelper myDB;
